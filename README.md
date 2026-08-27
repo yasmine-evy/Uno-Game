@@ -9,7 +9,7 @@ This project was developed to practise and demonstrate fundamental **object-orie
 
 ## 🎥 Demo
 
-▶️ **Project demonstration:** [Watch the video on YouTube]([YOUR_YOUTUBE_LINK_HERE](https://youtu.be/tVjJWD1qJdo?si=cFUV0U8g9HFrzZ1L))
+▶️ **Project demonstration:** [Watch the video on YouTube]([https://youtu.be/tVjJWD1qJdo?si=cFUV0U8g9HFrzZ1L])
 
 The video can demonstrate creating a game, playing cards, drawing cards, using action cards, choosing wild-card colours, and playing against bots.
 
